@@ -27,9 +27,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import springfox.documentation.oas.annotations.EnableOpenApi;
 
 /**
- * @author xuchuandi
- * @date 2021年5月18日上午11:07:52
- * @see
  */
 @Configuration
 @EnableWebSecurity

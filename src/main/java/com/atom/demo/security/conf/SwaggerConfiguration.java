@@ -37,9 +37,6 @@ import springfox.documentation.spi.service.contexts.SecurityContext;
 import springfox.documentation.spring.web.plugins.Docket;
 
 /**
- * TODO
- * @author xuchuandi
- * @date 2021年5月18日上午11:27:28
  * @see
  */
 @EnableOpenApi
