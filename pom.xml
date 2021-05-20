@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.atom.demo</groupId>
-	<artifactId>security</artifactId>
+	<artifactId>security-swagger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security-swagger</name>
 	<description>Demo project for Spring Boot</description>
